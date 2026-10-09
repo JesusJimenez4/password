@@ -1,5 +1,5 @@
+#Código para generar contraseñas seguras en base a la longitud deseada
 import random as rnd
-#import streamlit as stl
 generador="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-=[]{}|;':,./<>?"
 password_final=""
 print("Genrador de contraseñas seguras")
